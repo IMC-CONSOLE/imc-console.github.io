@@ -1,0 +1,18 @@
+Main Free Options:
+1. Google AI Studio (aistudio.google.com)
+The most reliable free option from a major provider Medium, offering access to Gemini models with no credit card required. You get generous usage limits for prototyping and small-scale applications.
+
+2. OpenRouter
+Provides access to 50+ models including DeepSeek, Qwen, and Kimi with one API key DEV Community. Great for experimenting with different models without managing multiple accounts.
+
+3. Groq
+Offers lightning-fast inference for smaller models like Llama, Mistral, and DeepSeek DEV Community. Known for exceptional speed on free tier.
+
+4. Hugging Face
+Provides serverless inference for thousands of community models. You get a small monthly credit ($0.10) that works well for experimentation with specialized models.
+
+5. Puter.js
+Allows developers to provide users with powerful AI capabilities without any API keys or usage restrictions Puter, using a "User-Pays" model.
+
+6. Cohere
+Offers production-quality APIs with 20 requests/minute and 1,000 monthly requests on the free tier.
